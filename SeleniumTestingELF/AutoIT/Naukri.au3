@@ -1,0 +1,7 @@
+send("D:\Saloni\cv resume\Saloni.pdf")
+sleep(500)
+send("{TAB}")
+sleep(500)
+send("{TAB}")
+sleep(500)
+send("{Enter}")
